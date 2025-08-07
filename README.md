@@ -1,4 +1,4 @@
-# Kiron – Knowledge Integration and Reasoning ONboard
+# Kiron – Knowledge Integration and Reasoning Onboard
 
 **Kiron** será um assistente pessoal local com entrada por voz projetado para realizar tarefas automatizadas, integrar informações e oferecer respostas inteligentes ao usuário. O projeto combina automação de sistema, processamento de linguagem natural (NLP), controle por voz e integração com APIs externas, em uma arquitetura modular e extensível.
 
