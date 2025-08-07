@@ -1,0 +1,3 @@
+# reconhecimento de voz
+SpeechRecognition
+pyaudio
